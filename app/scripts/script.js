@@ -1,3 +1,3 @@
 window.addEventListener('load', function () {
-  alert("This is within our script file")
+  console.log("This is within our script file")
 })
